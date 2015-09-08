@@ -18,3 +18,8 @@ h1 {
 .container {
 	padding: 40px;
 }
+p{
+	font-family: georgia;
+	font-size: 16px;
+	line-height: 30px;
+}
