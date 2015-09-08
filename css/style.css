@@ -10,6 +10,7 @@ h1 {
 	background-color: gray;
 	height: 100px;
 	margin-bottom: 30px;
+	padding: 20px;
 }
 .border {
 	border: 4px dotted white;
