@@ -1,5 +1,7 @@
 body {
 	background-color: gray;
+	font-family: georgia;
+	font-size: 16px;
 }
 h1 {
 	font-weight: bold;
@@ -18,8 +20,11 @@ h1 {
 .container {
 	padding: 40px;
 }
-p{
+p {
 	font-family: georgia;
 	font-size: 16px;
 	line-height: 30px;
+}
+h2 {
+	line-height:30px;
 }
