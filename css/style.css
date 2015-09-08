@@ -9,6 +9,7 @@ h1 {
 .project {
 	background-color: gray;
 	height: 100px;
+	margin-bottom: 30px;
 }
 .border {
 	border: 4px dotted white;
