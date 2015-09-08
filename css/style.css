@@ -4,10 +4,10 @@ body {
 h1 {
 	font-weight: bold;
 	font-size: 16px
-	width: 400px;
+	width: 600px;
 }
 .project {
-	background-color: gray;
+	background-color: white;
 	height: 200px;
 }
 .border {
