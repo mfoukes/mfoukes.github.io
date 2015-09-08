@@ -1,9 +1,10 @@
-body {
-background-color: white;}
-
 h1 {
-font-size: 16px;
-margin-botton: 16px;}
-
-p { 
-font-family: georgia;}
+	font-weight: bold;
+	font-size: 16px;
+}
+.project {
+	background-color: gray;
+}
+.border {
+	border: 6px solid black;
+}
