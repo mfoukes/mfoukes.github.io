@@ -1,28 +1,23 @@
 body {
-	background-color: gray;
+	background-color: #F6CEF5;
 	font-family: georgia;
-	font-size: 16px;
+	font-size: 20px;
+	text-align: center;
+	padding: 25px 50px;
+	border: 25px solid #CEF6CE;
+	color: #585858;
 }
 h1 {
 	font-weight: bold;
-	font-size: 16px
-	width: 600px;
+	font-size: 100px
+
+	
 }
 .project {
-	background-color: gray;
+	background-color: #F6CEF5;
 	height: 100px;
 	margin-bottom: 30px;
 	padding: 20px;
-
-.container {
-	padding: 40px;
-}
-p {
-	font-family: georgia;
-	font-size: 16px;
-	line-height: 30px;
-}
-h2 {
-	line-height:30px;
 	font-weight: bold;
+	border: 10px solid #CEF6CE;
 }
