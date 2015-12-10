@@ -1,10 +1,10 @@
 body {
-	background-color: #F6CEF5;
+	background-color:  #9999ff;
 	font-family: georgia;
 	font-size: 20px;
 	text-align: center;
 	padding: 25px 50px;
-	border: 25px solid #CEF6CE;
+	border: 25px solid #80ffaa;
 	color: #585858;
 }
 h1 {
@@ -19,7 +19,7 @@ h1 {
 	margin-bottom: 30px;
 	padding: 20px;
 	font-weight: bold;
-	border: 10px solid #CEF6CE;
+	border: 10px solid #80ffaa;
 }
 .box {
 	width: 75%;
@@ -42,11 +42,17 @@ h1 {
 	}
 	body {
 		background-color: white;
+		border: 25px solid black;
 	}
 	h1 {
 		font-size: 60px;
 	}
 	p {
 		font-size: 15px;
+	}
+	.project {
+		background-color: #70dbdb;
+		font-size: 15px;
+		border: 10px solid black;
 	}
 }
