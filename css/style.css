@@ -1,10 +1,10 @@
 body {
-	background-color:  #9999ff;
+	background-color:  #70dbdb;
 	font-family: georgia;
 	font-size: 20px;
 	text-align: center;
 	padding: 25px 50px;
-	border: 25px solid #80ffaa;
+	border: 25px solid #999999;
 	color: #585858;
 }
 h1 {
@@ -13,13 +13,14 @@ h1 {
 
 	
 }
+
 .project {
-	background-color: #F6CEF5;
+	background-color: white;
 	height: 100px;
 	margin-bottom: 30px;
 	padding: 20px;
 	font-weight: bold;
-	border: 10px solid #80ffaa;
+	border: 10px solid #999999;
 }
 .box {
 	width: 75%;
@@ -55,4 +56,5 @@ h1 {
 		font-size: 15px;
 		border: 10px solid black;
 	}
+
 }
